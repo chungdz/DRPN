@@ -1,5 +1,6 @@
 # Description
-The source code is for paper #2882.
+The source code is for paper Denoising Neural Network for News Recommendation with Positive and
+Negative Implicit Feedback.
 
 # Package Introduction
 - datasets: the code for config and dataset class.
